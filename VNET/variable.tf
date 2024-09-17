@@ -1,0 +1,4 @@
+variable "rgazrvnet01" {
+    
+  
+}
